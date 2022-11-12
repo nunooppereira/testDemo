@@ -1,1 +1,5 @@
 teste de conflitos
+
+pessoa1 - conflito
+
+pessoa2 - vai dar o conflito
